@@ -1,12 +1,12 @@
-<h1 align="center">Hi there, I'm Fahad Ahmed Shanawar 👋</h1>
+<h1 align="center">Hi, I'm Fahad Ahmed Shanawar 👋</h1>
 
-<h3 align="center">AI Engineer | Building Intelligent Systems with Code & Automation</h3>
+<h3 align="center">AI Engineer — Building intelligent systems with code & automation</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fahad-ahmed-shanawar-107a5535a/" target="_blank">
+  <a href="https://www.linkedin.com/in/fahad-ahmed-shanawar-107a5535a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/AiwithFahad" target="_blank">
+  <a href="https://github.com/AiwithFahad">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
@@ -15,34 +15,34 @@
 
 ### 🚀 About Me
 
-I'm an **AI Engineer** from **Talagang, Punjab, Pakistan**, passionate about building intelligent systems that solve real-world problems. I specialize in **Agentic AI**, **AI Agents**, **n8n Automation**, **RAG**, and **Voice AI** — turning ideas into production-ready, automated solutions.
+I'm an **AI Engineer** from **Talagang, Punjab, Pakistan**, building intelligent systems that solve real problems.
 
-- 🔭 Currently building **AI agents and automation workflows** with n8n
-- 🌱 Exploring **Agentic AI, RAG pipelines, and Voice AI**
-- 💡 Focused on **practical AI** — systems that work, not just demos
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/fahad-ahmed-shanawar-107a5535a/)
+- 🤖 **Agentic AI & AI Agents** — autonomous systems that plan, reason, and act
+- ⚡ **n8n Automation** — production workflows that save hours every week
+- 🧠 **RAG & Voice AI** — retrieval-augmented generation and conversational AI
+- 💡 Focused on **practical AI**: systems that work in production, not just demos
 
 ---
 
 ### 🛠️ Tech Stack
 
-**AI & Machine Learning:** Python • Machine Learning • Deep Learning • RAG • LLMs • Voice AI
+**AI & ML:** Python · Machine Learning · Deep Learning · LLMs · RAG · Voice AI
 
-**Automation & Agents:** n8n • AI Agents • Agentic AI • Workflow Automation
+**Automation:** n8n · AI Agents · Agentic AI · Workflow Automation
 
-**Tools & Platforms:** Git • Docker • GitHub • APIs
+**Tools:** Git · Docker · GitHub · APIs · OpenAI · Gemini
 
 ---
 
 ### 📌 Featured Projects
 
-| Project | Description |
+| Project | What it does |
 |---|---|
-| 🤖 **n8n AI Agents** | Production n8n AI agent workflows — appointment booking, voice agent, sentiment analysis, content automation |
-| 🏨 **Hotel Management System** | AI Hotel Booking & Management Agent built with n8n |
-| 🛒 **Smart Retail ML** | Demand forecasting, anomaly detection & vision OCR for retail data |
-| 💳 **Payment Fraud Detection** | Decision Tree model that detects fraudulent payments |
-| 📱 **KNN Mobile Price Predictor** | KNN classifier that predicts mobile phone price ranges |
+| 🤖 **n8n AI Agents** | Production AI agent workflows — booking, voice, sentiment, content |
+| 🏨 **Hotel Management System** | AI hotel booking & management agent built with n8n |
+| 🛒 **Smart Retail ML** | Demand forecasting, anomaly detection & vision OCR for retail |
+| 💳 **Payment Fraud Detection** | Decision Tree model that flags fraudulent payments |
+| 📱 **KNN Mobile Price Predictor** | KNN classifier that predicts mobile price ranges |
 
 ---
 
@@ -55,3 +55,5 @@ I'm an **AI Engineer** from **Talagang, Punjab, Pakistan**, passionate about bui
 ---
 
 <p align="center">⭐ Star my repos if you find them useful — and let's build something intelligent together!</p>
+
+<p align="center">📫 Connect: <a href="https://www.linkedin.com/in/fahad-ahmed-shanawar-107a5535a/">LinkedIn</a></p>
