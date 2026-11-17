@@ -27,17 +27,18 @@
 **Data & ML:** scikit-learn · Pandas · Jupyter
 **Tools:** Git & GitHub · Vercel · Stripe
 
-### 🧩 SaaS Products — built end-to-end, with live demos
+### 🚀 Flagship Projects — live products, built end-to-end
 
 | Product | What it is | Live demo |
 |---|---|---|
-| **CRM Management SaaS** | Customers, leads, Kanban sales pipeline, tasks, subscriptions | [crm-management-saas.vercel.app](https://crm-management-saas.vercel.app) |
-| **Project Management SaaS** | Projects, Kanban boards, teams, time tracking | [project-management-saas-swart.vercel.app](https://project-management-saas-swart.vercel.app) |
-| **School Management SaaS** | Students, attendance, fees, exams, report cards, portals | [school-management-saas-two.vercel.app](https://school-management-saas-two.vercel.app) |
-| **Restaurant POS SaaS** | POS billing, kitchen display, tables, branches, inventory | [restaurant-pos-saas-ten.vercel.app](https://restaurant-pos-saas-ten.vercel.app) |
-| **Inventory Management SaaS** | Stock movements, warehouses, purchase & sales orders, barcodes | [inventory-management-saas-alpha.vercel.app](https://inventory-management-saas-alpha.vercel.app) |
+| **Margalla House** | Smart hotel management system — online booking, admin dashboard & AI voice receptionist · Supabase + n8n | [margalla-house-hotel.netlify.app](https://margalla-house-hotel.netlify.app) |
+| **GENT'S STUDIO** | AI-powered men's grooming salon platform — online booking, AI chat assistant & admin dashboard · n8n + Google Sheets/Calendar + Stripe test mode | [gents-studio.netlify.app](https://gents-studio.netlify.app) |
+| **Hercules Detailing** | AI voice receptionist for a premium car detailing studio — books, moves and cancels appointments by voice or text · ElevenLabs + n8n | [hercules-car.netlify.app](https://hercules-car.netlify.app) |
+| **AYRA Style Studio** | AI personal stylist & virtual try-on — catalog your wardrobe, get AI outfit ideas & preview looks on your photo | [ayra-style-studio.lovable.app](https://ayra-style-studio.lovable.app) |
+| **Virtual Courses AI** | Free AI-powered learning platform — 19 courses, micro-learning reels, quizzes, certificates & progress tracking · React & TypeScript | [virtualcoursesdemo.netlify.app](https://virtualcoursesdemo.netlify.app) |
+| **VELORA** | Fashion storefront — 36-product catalog, cart & checkout flow, and a voice + text shopping assistant | [velora-shanawar.netlify.app](https://velora-shanawar.netlify.app) |
 
-*Every product: multi-tenant, Super Admin panel, subscription plans & billing, Core PHP 8 + MySQL — full source in its repo.*
+*These six are the pinned repositories on this profile — each repo carries the full presentation, architecture and setup docs.*
 
 ### 📌 Featured AI Projects
 
