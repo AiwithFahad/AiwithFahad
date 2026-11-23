@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fahad-ahmed-shanawar-107a5535a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.fahadshanawar.com/"><img src="https://img.shields.io/badge/Website-fahadshanawar.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   <img src="https://img.shields.io/badge/Location-Talagang%2C%20Pakistan-0d9488?style=for-the-badge" alt="Location">
   <img src="https://img.shields.io/badge/Open%20to-Projects%20%26%20Collaborations-success?style=for-the-badge" alt="Open to projects">
 </p>
@@ -59,5 +60,6 @@
 
 ### 📫 Let's Connect
 
+- **Website:** https://www.fahadshanawar.com/
 - **LinkedIn:** https://www.linkedin.com/in/fahad-ahmed-shanawar-107a5535a/
 - Open to: freelance AI/automation projects, collaborations, and AI engineering opportunities
